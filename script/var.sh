@@ -1,0 +1,10 @@
+#!/bin/bash
+JLIB=jsonnet
+HARBOR_HOST="10.19.140.200:29006"
+YC_HARBOR_HOST="10.19.248.200:29006"
+HARBOR="${HARBOR_HOST}/console/"
+DIND="docker:18.06-dind"
+BUILD_BASE="build-base:1.0.0"
+PROXY_URL="http://10.19.140.200:30802"
+UPGRADE_SPEC_NAME="console-upgrade-specification.json"
+HEALTH_CHECKER="health-checker:1.0.0"

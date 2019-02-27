@@ -1,0 +1,66 @@
+[submodule "docker/src/gateway"]
+	path = docker/src/gateway
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-gateway.git
+[submodule "docker/src/cc-storage"]
+	path = docker/src/cc-storage
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-storage.git
+[submodule "docker/src/cc-account"]
+	path = docker/src/cc-account
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-account.git
+[submodule "docker/src/cc-audit"]
+	path = docker/src/cc-audit
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-audit.git
+[submodule "docker/src/cc-backend"]
+	path = docker/src/cc-backend
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-backend.git
+[submodule "docker/src/cc-config-server"]
+	path = docker/src/cc-config-server
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-config-server.git
+[submodule "docker/src/cc-console"]
+	path = docker/src/cc-console
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-console.git
+[submodule "docker/src/cc-gateway"]
+	path = docker/src/cc-gateway
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-gateway.git
+[submodule "docker/src/cc-gc"]
+	path = docker/src/cc-gc
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-gc.git
+[submodule "docker/src/cc-gitbook"]
+	path = docker/src/cc-gitbook
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/faithfully/user-guide.git
+[submodule "docker/src/user-guide"]
+	path = docker/src/user-guide
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/faithfully/user-guide.git
+[submodule "docker/src/cc-initializer"]
+	path = docker/src/cc-initializer
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-initializer.git
+[submodule "docker/src/cc-harbor"]
+	path = docker/src/cc-harbor
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-harbor.git
+[submodule "docker/src/cc-kubeorigin"]
+	path = docker/src/cc-kubeorigin
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-kubeorigin.git
+[submodule "docker/src/cc-log"]
+	path = docker/src/cc-log
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-log.git
+[submodule "docker/src/cc-metric"]
+	path = docker/src/cc-metric
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/metric.git
+[submodule "docker/src/cc-notification"]
+	path = docker/src/cc-notification
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-notification.git
+[submodule "docker/src/cc-template"]
+	path = docker/src/cc-template
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-template.git
+[submodule "docker/src/cc-terminal"]
+	path = docker/src/cc-terminal
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-terminal.git
+[submodule "docker/src/cc-watch"]
+	path = docker/src/cc-watch
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/cc-watch.git
+[submodule "docker/src/cc-storage-listener"]
+	path = docker/src/cc-storage-listener
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/storage-listener.git
+[submodule "docker/src/cc-lmd"]
+	path = docker/src/cc-lmd
+	url = ssh://git@gitlab.cloud.enndata.cn:10885/cc/logAndMetric.git

@@ -1,0 +1,23 @@
+---
+all:
+  vars:
+    ntp_orphan_parents: ["10.19.140.6", "10.19.140.10"]
+    ntp_server: 10.36.8.40
+    master_list: ["10.19.140.6", "10.19.140.10", "10.19.140.14"]
+    etcd_init_servers: ["10.19.140.6", "10.19.140.10", "10.19.140.14"]
+    hanode_list: ["10.19.140.6", "10.19.140.10"]
+    host_path_list: ["10.19.140.6", "10.19.140.10", "10.19.140.14"]
+    cluster_name: enc-cluster
+    cluster_ip_range: 192.168.0.0/16
+    domain: cluster.local
+    max_pods: 100
+    cpu_reserved: 0
+    memory_reserved: 0
+    sample_rate: 30
+    flannel_etcd_list: ["10.19.140.6", "10.19.140.10", "10.19.140.14"]
+    flanneld_subnet: 172.16.0.0/12
+    local_repo: 10.19.140.210:29271
+    ca_vip: 10.19.140.210
+    admin_password: admin
+    admin_username: admin
+    kl_interface: external0

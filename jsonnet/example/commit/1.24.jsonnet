@@ -1,0 +1,23 @@
+{
+  console: {
+    account: "91f7ed6fa92d21367bf407b1ae94c7be705fccf8",
+    audit: "1f49f62029f8ce848fa966109d5264bfef6dc40f",
+    backend: "fca2c2276c0457f23be4c162e32fb50ff60d3124",
+    console: "5eddfc459a1ce4199ceb2fba8203a12f256c2d06",
+    gateway: "44e76eb0dec15ba7193b94b163cd9e9a42a25a80",
+    gc: "5bf612a0677098ca668cef7b264043ece1c3f895",
+    gitbook: "ae40a3ed739fcb4cb73eb12ce4fa69a68b7628de",
+    harbor: "963d8f956766992eb2cc4128164db756596b7159",
+    initializer: "61062f371586ec87393739d61b539138310e5569",
+    kubeorigin: "309eb001436c7d6fc42886d323adb710425f3aed",
+    log: "6a13584a257a9bc5e094e0303a38249b2c007ec1",
+    metric: "f834753b3ae1f19650d4c38e4fbfdcfa7ac322ce",
+    notification: "5541ce13c5f04bf0940c46e49a9809bc5788905f",
+    storage: "1553e03e477d8fb71c806e7b81594d1c4d113efe",
+    template: "c593253011abbf26f948bc2704bd5438217559ae",
+    terminal: "8739089c8d54b986e4d50578885f6c70caaf987c",
+    watch: "4f8131f6a365f1089617ab8ad1f46091e274e700",
+    dependency_checker: "c109279747b5b2d72a300e1221cee3d06d76095a",
+    storage_listener: "7d282c617f7c009d2405160ab03887f4b6a213bd",
+  },
+}
